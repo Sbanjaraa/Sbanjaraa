@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sbanjaraa
-- 👀 I’m interested in web design 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in web developer 
+- 🌱 I’m currently learning python and Java script 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
